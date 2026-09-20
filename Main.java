@@ -27,13 +27,13 @@ class Main {
             System.out.print("Enter the weight in lbs: ");
             weight = scanner.nextDouble();
             weightnew = weight * 0.453592;
-            System.out.printf("Wight in kgs is %.1f", weightnew); // return final answer (if applicable)
+            System.out.printf("Weight in kgs is %.1f", weightnew); // return final answer (if applicable)
         }
         else if(choice == 2){
             System.out.print("Enter the weight in kgs: ");
             weight = scanner.nextDouble();
             weightnew = weight * 2.20462;
-            System.out.printf("Wight in lbs is %.1f", weightnew); // return final answer (if applicable)
+            System.out.printf("Weight in lbs is %.1f", weightnew); // return final answer (if applicable)
         }
         else{
             System.out.println("INVALID CHOICE!"); // tells user their choice is invalid
