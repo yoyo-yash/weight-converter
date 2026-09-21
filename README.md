@@ -7,4 +7,5 @@ simple java program that converts weight from
 concepts used-
 1) scanner
 2) if-else
-3) arithmetic operator
+3) arithmetic operators
+4) printf
